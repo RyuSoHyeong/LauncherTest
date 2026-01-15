@@ -4,14 +4,14 @@
   "files": {
     "Launcher.exe": {
       "url": "https://github.com/RyuSoHyeong/Launcher/raw/main/Launcher.exe",
-      "size": 533504,
-      "hash": "e7f0b22a68b1d7a40b269c92f9b441a4442ccaf5c12c16ba0aa6a662203349f9",
+      "size": 536576,
+      "hash": "deb77ce721eb3957f10c54a0af4cb3a4f2dfa32a520726b83aa33469299e5504",
       "required": true,
       "last_modified": "2026-01-15"
     }
   },
-  "total_size": 533504,
-  "download_size": 533504,
+  "total_size": 536576,
+  "download_size": 536576,
   "changelog": {
     "en": "• Project update: update size display\n• Minor fixes and improvements",
     "ru": "• Обновление проекта: показ размера обновления\n• Мелкие исправления"
