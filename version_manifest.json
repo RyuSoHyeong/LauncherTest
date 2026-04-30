@@ -1,20 +1,20 @@
 {
-  "version": "0.9.4.1",
-  "build_date": "2026-04-30",
+  "version": "0.9.4.2",
+  "build_date": "2026-04-30T18:10:24Z",
   "files": {
     "Launcher.exe": {
-      "url": "https://github.com/RyuSoHyeong/LauncherTest/raw/main/Launcher.exe",
-      "size": 1317376,
-      "hash": "42b670fc6a32af12f7dc6ccffe4f8c3b68bba128f7864f64a3c4d21d8f49f6ce",
+      "url": "Launcher.exe",
+      "size": 660480,
+      "hash": "fcc470288fee8b9eb9715a22783031ca814f9c455a049a308a41ac848c3b70d0",
       "required": true,
-      "last_modified": "2026-04-30"
+      "last_modified": "2026-04-30T18:09:36Z"
     }
   },
-  "total_size": 1317376,
-  "download_size": 1317376,
+  "total_size": 660480,
+  "download_size": 660480,
   "changelog": {
-    "en": "• Added multithreaded downloading\n• Added the ability to select the best server\n• Fixed task statuses\n• Added mirror support for downloads\n• Minor fixes",
-    "ru": "• Добавлена многопоточкая загрузка\n• Добавлена возможность выбора лучшего сервера\n• Исправлены статусы задач\n• Добавлена поддержка зеркал при скачивании\n• Мелкие исправления"
+    "en": "• Improved multi-threaded downloading for large files\n• Added parallel downloading for small files\n• Added manifest signature verification\n• Switched downloads from libcurl to system WinHTTP",
+    "ru": "• Улучшена многопоточная загрузка больших файлов\n• Добавлена параллельная загрузка маленьких файлов\n• Добавлена проверка подписи manifest\n• Загрузка переведена на системный WinHTTP вместо libcurl"
   },
   "executable": "Launcher.exe"
 }
