@@ -1,9 +1,0 @@
-{
-  "id": "uds18_1",
-  "starts_at": "2026-05-03 20:00:00",
-  "duration_minutes": 240,
-  "message": {
-    "ru": "Проверка работы уведомлений проекта.",
-    "en": "Short server interruptions are possible today."
-  }
-}
