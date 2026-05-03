@@ -1,7 +1,7 @@
 {
   "id": "launcher_1",
-  "starts_at": "2026-05-03 20:00:00",
-  "duration_minutes": 15,
+  "starts_at": "2026-05-03 20:16:00",
+  "duration_minutes": 1,
   "message": {
     "ru": "Сегодня возможны кратковременные перебои в работе серверов.",
     "en": "Short server interruptions are possible today."
