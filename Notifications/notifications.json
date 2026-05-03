@@ -1,7 +1,7 @@
 {
-  "id": "maintenance_2026_05_03",
-  "starts_at": "2026-05-03 18:00:00",
-  "duration_minutes": 240,
+  "id": "launcher_1",
+  "starts_at": "2026-05-03 20:00:00",
+  "duration_minutes": 15,
   "message": {
     "ru": "Сегодня возможны кратковременные перебои в работе серверов.",
     "en": "Short server interruptions are possible today."
