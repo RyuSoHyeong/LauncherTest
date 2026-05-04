@@ -1,13 +1,13 @@
 {
   "version": "0.9.4.3",
-  "build_date": "2026-05-03T20:44:58Z",
+  "build_date": "2026-05-04T00:55:19Z",
   "files": {
     "Launcher.exe": {
       "url": "Launcher.exe",
       "size": 747520,
-      "hash": "a3630d230da750e05d70020fe3f9de59deb1b8150a7f90aba185cca06c9be8af",
+      "hash": "a03b298b359392c1bb1809c698a72a73e2a9783928f2b1ef218299862f61b726",
       "required": true,
-      "last_modified": "2026-05-03T20:28:46Z"
+      "last_modified": "2026-05-03T22:26:58Z"
     }
   },
   "total_size": 747520,
