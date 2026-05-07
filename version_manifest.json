@@ -1,20 +1,20 @@
 {
-  "version": "0.9.4.3",
-  "build_date": "2026-05-04T00:55:19Z",
+  "version": "0.9.4.4",
+  "build_date": "2026-05-07T20:15:01Z",
   "files": {
     "Launcher.exe": {
       "url": "Launcher.exe",
-      "size": 747520,
-      "hash": "a03b298b359392c1bb1809c698a72a73e2a9783928f2b1ef218299862f61b726",
+      "size": 798720,
+      "hash": "67c837fa39ce0529c58a294a8d9822cdddaa60e6643fc853c4cbb216cb531346",
       "required": true,
-      "last_modified": "2026-05-03T22:26:58Z"
+      "last_modified": "2026-05-07T11:52:17Z"
     }
   },
-  "total_size": 747520,
-  "download_size": 747520,
+  "total_size": 798720,
+  "download_size": 798720,
   "changelog": {
-    "en": "• Added staged project installation\n• Reworked the project installation and update system\n• Implemented a chunk-based project installation system\n• Added a remote notification system for the launcher\n• Added a remote notification system for the project\n• Bug fixes",
-    "ru": "• Добавлена поэтапная установка проекта\n• Переработана система установки и обновления проекта\n• Реализована chunk-based система установки проекта\n• Добавлена система удаленных уведомлений для лаунчера\n• Добавлена система удаленных уведомлений для проекта\n• Исправление ошибок"
+    "en": "• Added server selection support\n• Improved download protection\n• Reworked project downloading\n• Reworked operation states\n• Interface improvements\n• Fixed false update detections",
+    "ru": "• Добавлена возможность выбора сервера\n• Улучшена защита загрузки\n• Переработана загрузка проекта\n• Переработаны состояния операций\n• Улучшение интерфейса\n• Исправлены ложные обновления"
   },
   "executable": "Launcher.exe"
 }
