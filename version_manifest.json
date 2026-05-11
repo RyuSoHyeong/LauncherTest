@@ -1,20 +1,20 @@
 {
-  "version": "0.9.4.4",
-  "build_date": "2026-05-07T20:15:01Z",
+  "version": "0.9.4.5",
+  "build_date": "2026-05-11T11:15:51Z",
   "files": {
     "Launcher.exe": {
       "url": "Launcher.exe",
       "size": 798720,
-      "hash": "67c837fa39ce0529c58a294a8d9822cdddaa60e6643fc853c4cbb216cb531346",
+      "hash": "aaea332e6a1fc8c096875ef77b7a6f11ff763c1bf886078128c2de8a6c22b79e",
       "required": true,
-      "last_modified": "2026-05-07T11:52:17Z"
+      "last_modified": "2026-05-11T11:07:06Z"
     }
   },
   "total_size": 798720,
   "download_size": 798720,
   "changelog": {
-    "en": "• Added server selection support\n• Improved download protection\n• Reworked project downloading\n• Reworked operation states\n• Interface improvements\n• Fixed false update detections",
-    "ru": "• Добавлена возможность выбора сервера\n• Улучшена защита загрузки\n• Переработана загрузка проекта\n• Переработаны состояния операций\n• Улучшение интерфейса\n• Исправлены ложные обновления"
+    "en": "• Fixed \"Failed to get update information\" error\n• Added resume support for interrupted installs and updates",
+    "ru": "• Исправлена ошибка \"Failed to get update information\"\n• Добавлено возобновление прерванной установки и обновления"
   },
   "executable": "Launcher.exe"
 }
